@@ -1,13 +1,12 @@
-# SSRPanel Standard
+# SSRPanel
 Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 
-- [Demo](https://demo.ssrpanel.com)
-- [Telegram](https://t.me/ssrpanel)
+- [Telegram](https://t.me/vnetpanel)
 - [Issues](https://github.com/ssrpanel/SSRPanel/issues)
 - [WIKI](https://github.com/ssrpanel/SSRPanel/wiki)
 
 
-**WARNING : This version only fixes BUG and no new features are added.**
+**WARNING : This version no new features are added.**
 
 Star Number of Projects as of May 13, 2019 (Project was set to private)
 ![stars](https://i.loli.net/2019/08/05/t7NsEWFQ3crZMYj.png)
@@ -48,4 +47,4 @@ Star Number of Projects as of May 13, 2019 (Project was set to private)
 
 ## License
 
-SSRPanel Standard is open-sourced software licensed under the MIT license.
+SSRPanel is open-sourced software licensed under the MIT license.
